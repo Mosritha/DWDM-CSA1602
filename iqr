@@ -1,0 +1,8 @@
+names <- c("ram","gopal","shyam")
+age <- c(23,24,25)
+marks <- c(66,77,88)
+df <- data.frame(names,age,marks)
+IQR(df $marks)
+output:
+IQR(df $marks)
+[1] 11
