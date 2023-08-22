@@ -1,0 +1,9 @@
+names <- c("ram","gopal","shyam")
+age <- c(23,24,25)
+marks <- c(66,77,88)
+df <- data.frame(names,age,marks)
+range(df $marks)
+output:
+range(df $marks)
+[1] 66 88
+> 
