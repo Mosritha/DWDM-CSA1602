@@ -1,0 +1,8 @@
+names <- c("ram","gopal","shyam")
+age <- c(23,24,25)
+marks <- c(66,77,88)
+df <- data.frame(names,age,marks)
+mode(df $marks)
+output:
+mode(df $marks)
+[1] "numeric"
