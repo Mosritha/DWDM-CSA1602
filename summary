@@ -1,0 +1,9 @@
+names <- c("ram","gopal","shyam")
+age <- c(23,24,25)
+marks <- c(66,77,88)
+df <- data.frame(names,age,marks)
+summary(df $marks)
+output:
+summary(df $marks)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   66.0    71.5    77.0    77.0    82.5    88.0 
